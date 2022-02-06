@@ -1,4 +1,4 @@
-<?
+<?php
 namespace Whoyasha\Teenyicons;
 	
 class Icon
