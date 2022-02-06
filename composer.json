@@ -2,5 +2,19 @@
 	"name": "whoyasha/teenyicons",
 	"description": "Teenyicons pack",
 	"type": "library",
-	"license": "MIT"
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Yasha Okoneshnikov",
+			"email": "y@iagent.ru"
+		}
+	],
+	"require": {
+		"php": ">=5.6.4"
+	},
+	"autoload": {
+		"psr-4": {
+			"Whoyasha\\Teenyicons\\": "src/"
+		}
+	}
 }
