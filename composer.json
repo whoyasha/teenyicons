@@ -10,21 +10,11 @@
 		}
 	],
 	"require": {
-		"php": ">=5.6.4",
-		"teenyicons/teenyicons": "dev"
+		"php": ">=5.6.4"
 	},
 	"autoload": {
 		"psr-4": {
 			"Whoyasha\\Teenyicons\\": "src/"
 		}
-	},
-	"config": {
-		"notify-batch": "/downloads/"
-	},
-	"repositories": [
-		{
-			"type": "github",
-			"url":  "https://github.com/teenyicons/teenyicons.git"
-		}        
-	]
+	}
 }
