@@ -1,6 +1,6 @@
 {
 	"name": "whoyasha/teenyicons",
-	"description": "Teenyicons pack",
+	"description": "Teenyicons pack via PHP",
 	"type": "library",
 	"license": "MIT",
 	"authors": [
