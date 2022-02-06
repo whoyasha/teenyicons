@@ -5,12 +5,12 @@
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Yasha Okoneshnikov",
-			"email": "y@iagent.ru"
-		},
-		{
 			"name": "teenyicons -> smhmd (https://simohamed.tech)",
 			"email": "contact.simohamed@gmail.com"
+		},
+		{
+			"name": "Yasha Okoneshnikov",
+			"email": "y@iagent.ru"
 		}
 	],
 	"require": {
