@@ -1,5 +1,5 @@
 <?
-	namespace Whoyasha\Teenyicons;
+namespace Whoyasha\Teenyicons;
 	
 class IconSet
 {
